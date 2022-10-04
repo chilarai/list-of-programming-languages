@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  padding-top: 20px;
+}
+
+.container select {
+  width: 30%;
+  margin-bottom: 10px;
+}
