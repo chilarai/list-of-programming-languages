@@ -11,3 +11,12 @@ Feel free to add more programming languages or types.
 -   `A-Z-checkboxes.html` list is updated from [wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages)
 -   `A-Z-dropdown.html` list is updated from [wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages)
 -   `50-common-languages.html` list is updated from [Githut](https://madnight.github.io/githut/#/pull_requests/2021/4)
+
+## Contributors
+Thanking all the contributors of HacktoberFest 2022 for making this project a success. Hope this helps other people
+
+<a href="https://github.com/chilarai/list-of-programming-languages/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=chilarai/list-of-programming-languages" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
